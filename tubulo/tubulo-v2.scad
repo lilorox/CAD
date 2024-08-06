@@ -4,15 +4,15 @@ $fs = 0.4;
 module part1()
 {
     wall_thickness = 0.6;
-    wall_length = 23;
+    wall_length = 22.5;
     wall_depth = 8;
     support_length = 1.6;
     support_height = 4;
     support_overlap = 1;
-    cylinder_radius = 3;
+    cylinder_radius = 5.6/2;
     cylinder_height = 6;
-    support_side_length = 1;
-    corner_side_length = 1.5;
+    support_side_length = 0.7;
+    corner_side_length = 1.4;
 
     depth_stop_depth = 2;
 
